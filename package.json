@@ -1,0 +1,20 @@
+{
+  "name": "NodeConf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Haversham94/node_together.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Haversham94/node_together/issues"
+  },
+  "homepage": "https://github.com/Haversham94/node_together#readme"
+}
